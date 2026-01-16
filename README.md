@@ -264,8 +264,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Increase MAX_SEARCH_RESULTS
 - Try rephrasing your query
 
-
-
----
-
-**Made with ❤️ and AI**
