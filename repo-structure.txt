@@ -1,0 +1,28 @@
+document-intelligence-agent/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── config.py
+├── data/
+│   ├── documents/          # Source PDFs
+│   └── index/              # Document index storage
+├── src/
+│   ├── __init__.py
+│   ├── agent/
+│   │   ├── __init__.py
+│   │   ├── document_agent.py
+│   │   ├── query_planner.py
+│   │   └── response_synthesizer.py
+│   ├── processors/
+│   │   ├── __init__.py
+│   │   ├── pdf_processor.py
+│   │   └── text_chunker.py
+│   ├── search/
+│   │   ├── __init__.py
+│   │   ├── vector_store.py
+│   │   └── retriever.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+├── app.py
+└── .env.example
