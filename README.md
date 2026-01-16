@@ -1,6 +1,5 @@
 # Document-intelligence-system
-AI-powered document understanding system
-An advanced AI-powered document intelligence system that enables sophisticated document understanding, analysis, and interaction.
+AI-powered document understanding system . This is an advanced AI-powered document intelligence system that enables sophisticated document understanding, analysis, and interaction.
 
 ###  Features
 
